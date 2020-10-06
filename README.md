@@ -1,12 +1,8 @@
-# Quiet Light for VSC
+# Tropical Day
 
-Quiet Light for VSC is a light, peaceful theme, ported to Visual Studio Code by me, the designer of the original Quiet Light theme for MacRabbit's Espresso text editor on macOS.
+Tropical Day is an experimental light theme by Surf. It's built on the fantastic [Quiet Light theme](https://github.com/onecrayon/theme-quietlight-vsc) from Ian Beck. It's intent is to be more balanced in it's contrast, more distinct in it's approach to a light theme, and more comfortable for regular usage.
 
-![Quiet Light screenshot](images/screenshot.png)
-
-When I launched Visual Studio Code for the first time I was surprised and delighted to find that my Quiet Light theme was included by default. However, it was a little rough around the edges (I didn't have anything to do with the Textmate port of the theme), and thus Quiet Light for VSC was born.
-
-I hope you enjoy working by Quiet Light! Please [let me know](http://onecrayon.com/about/contact/) if you run across any problems or have any suggestions to make it better (or alternately [submit a pull request on GitHub](https://github.com/onecrayon/theme-quietlight-vsc)).
+Feel free to offer suggestions, ideas or feedback via Issue or PR! Thanks for dropping by, and hopefully trying this theme out.
 
 ## Officially tested for:
 
@@ -16,8 +12,6 @@ I hope you enjoy working by Quiet Light! Please [let me know](http://onecrayon.c
 * PHP
 * Python
 * Markdown
-
-**Please note** that Quiet Light 1.0.2+ requires Visual Studio Code 1.9 or greater.
 
 ## Known issues
 
